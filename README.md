@@ -1,7 +1,7 @@
 # FPN with GIoU/IoU loss 
 
 ## Note
-**This project based on https://github.com/DetectionTeamUCAS/FPN_Tensorflow
+** This project based on https://github.com/DetectionTeamUCAS/FPN_Tensorflow
 
 ## Abstract
 This is a tensorflow re-implementation of [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144).     
