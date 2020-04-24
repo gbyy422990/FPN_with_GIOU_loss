@@ -1,8 +1,7 @@
-# Feature Pyramid Networks for Object Detection     
+# FPN with GIoU/IoU loss 
 
 ## Note
-**A [development version](https://github.com/DetectionTeamUCAS/FPN_Tensorflow_DEV) based on FPN.**   
-**Support multi-gpu training!**
+**This project based on https://github.com/DetectionTeamUCAS/FPN_Tensorflow
 
 ## Abstract
 This is a tensorflow re-implementation of [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144).     
